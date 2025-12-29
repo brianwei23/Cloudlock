@@ -16,7 +16,7 @@
 
 ## 📋 Overview 
 
-CloudLock is a modern, AI-powered password manager built with security and usability in mind. Featuring end-to-end encryption, real-time password strength validation, dark web monitoring, and an AI security assistant, CloudLock helps you manage your digital credentials safely and efficiently.
+CloudLock is a modern, AI-powered password manager built with security and usability in mind. Featuring end-to-end encryption, real-time password strength validation, dark web monitoring, and an AI security assistant, CloudLock helps you manage your digital credentials safely and efficiently. **Our site is live on `cloudlock.online`.**
 
 Built as a CPSC 491 Senior Capstone project at California State University, Fullerton.
 
@@ -238,15 +238,16 @@ cloudlock/
 |   ├── password-sharing.css  # Password sharing styles
 │   └── security-insights.css # Security insights styles
 |
-├── .gitignore                # Git ignored files
-├── CNAME                     # Canonical name
-├── README.md                 # This file
-├── dashboard.html            # Dashboard page UI
-├── index.html                # Main application page
-├── login.html                # Login page UI
-├── reset-password.html       # Reset page UI in email link
-├── reset.html                # Main reset page UI
-└── shared.html               # Shared password page UI
+├── .gitignore                         # Git ignored files
+├── CNAME                              # Canonical name
+├── CloudLock - IEEE Report.FINAL.pdf  # Detailed documentation
+├── README.md                          # This file
+├── dashboard.html                     # Dashboard page UI
+├── index.html                         # Main application page
+├── login.html                         # Login page UI
+├── reset-password.html                # Reset page UI in email link
+├── reset.html                         # Main reset page UI
+└── shared.html                        # Shared password page UI
 ```
 
 ---
